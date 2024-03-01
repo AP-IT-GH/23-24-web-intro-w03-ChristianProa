@@ -1,5 +1,5 @@
-# 💻 03. HTML & Bootstrap > oefening 02
 
+# 💻 03. HTML & Bootstrap > oefening 02
 ## 🛠️ opdrachten
 
 ### `index.html` maken
